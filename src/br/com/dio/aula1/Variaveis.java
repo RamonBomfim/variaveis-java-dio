@@ -1,4 +1,4 @@
-package br.com.dio;
+package br.com.dio.aula1;
 
 // Criando e explorando as possibilidades de criação de variáveis
 public class Variaveis {
