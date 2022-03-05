@@ -36,6 +36,7 @@ public class Conversoes {
         float f4 = 11.5697f;
         i4 = (int) f4; // Casting com perda de dados
 
+
         System.out.println("b1: " + b1); // -24
         System.out.println("l1: " + l1); // 10
         System.out.println("i2: " + i2); // -1486618624
